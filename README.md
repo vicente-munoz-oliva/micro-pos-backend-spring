@@ -20,4 +20,8 @@ Sigue estos pasos para inicializar el proyecto:
 
    ```shell
    npm install
-   npm run start
+
+2. Inicializar proyecto:
+
+    ```shell
+   npm run start 
