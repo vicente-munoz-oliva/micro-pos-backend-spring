@@ -6,8 +6,6 @@ Spring - hibernate - postgret
 
 
 
-markdown
-Copy code
 ## Servidor Node.js con Fastify
 
 Este repositorio contiene un servidor Node.js que utiliza el micro-framework Fastify.
