@@ -51,21 +51,21 @@ Para filtrar por tipo, proporciona el siguiente parámetro:
 
 Obtener Método de Pago Filtrado por ID
 Método
-GET
+### GET
 
-URL
+### URL
 http://localhost:3000/api/payment-method/{id}/
 
 Eliminar Método de Pago por ID
 Método
 DELETE
 
-URL
+### URL
 http://localhost:3000/api/payment-method/{id}/
 
 Obtener Todos los Métodos de Pago en Formato CSV
 Método
-GET
+### GET
 
 URL
 http://localhost:3000/api/payment-method/csv-format/
