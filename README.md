@@ -28,8 +28,6 @@ Sigue estos pasos para inicializar el proyecto:
 
 # API de Métodos de Pago
 
-Esta API proporciona métodos para administrar métodos de pago.
-
 ## Obtener Todos los Métodos de Pago
 
 ### Método
