@@ -24,8 +24,6 @@ Sigue estos pasos para inicializar el proyecto:
     ```shell
    npm run start 
 
-# API de Métodos de Pago
-
 ## Obtener Todos los Métodos de Pago
 
 ### Método
